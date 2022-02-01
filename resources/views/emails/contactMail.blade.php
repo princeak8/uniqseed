@@ -4,19 +4,16 @@
 
 <head>
 
-    <title>ItsolutionStuff.com</title>
+    <title>Uniqseed</title>
 
 </head>
 
 <body>
 
-    <h1>{{ $details['title'] }}</h1>
+    <h1>{{ $msg->name }}</h1>
 
-    <p>{{ $details['body'] }}</p>
+    <p>{{ $msg->message }}</p>
 
-   
-
-    <p>Thank you</p>
 
 </body>
 
