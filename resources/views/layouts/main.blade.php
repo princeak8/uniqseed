@@ -1,7 +1,11 @@
-@include('inc.head_links')
+<html>
+    @include('inc.head_links')
 
-@include('inc.header')
+    <body>
+        @include('inc.header')
 
-@yield('content')
+        @yield('content')
 
-@include('inc.footer')
+        @include('inc.footer')
+    </body>
+</html>
