@@ -30,6 +30,9 @@ class ContactMail extends Mailable
      */
     public function build()
     {
-        return $this->view('view.name');
+        $message = $this->message;
+        return $this->subject('Contact Message from Uniqseed')->view('emails.contactMail')->with([
+            'msg' => $this->message
+        ]);
     }
 }

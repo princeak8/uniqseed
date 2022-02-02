@@ -3,12 +3,33 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Http\Requests\ContactMessageRequest;
+
+use Mail;
+use App\Mail\ContactMail;
+
+use App\Models\ContactMessage;
 
 class ContactController extends Controller
 {
     
-    public function save(Request $request)
+    public function save(ContactMessageRequest $request)
     {
-        dd('post was successful');
+        $input = $request->all();
+        $contact = new ContactMessage;
+        $contact->name = $input['name'];
+        $contact->message = $input['message'];
+        if(isset($input['email'])) $contact->email = $input['email'];
+        $contact->save();
+        Mail::to('contact@uniqseedil.com')->send(new ContactMail($contact));
+    //     Mail::send('email', [
+    //         'name' => $request->get('name'),
+    //         'email' => $request->get('email'),
+    //         'comment' => $request->get('comment') ],
+    //         function ($message) {
+    //                 $message->from('youremail@your_domain');
+    //                 $message->to('youremail@your_domain', 'Your Name')
+    //                 ->subject('Your Website Contact Form');
+    // });
     }
 }
