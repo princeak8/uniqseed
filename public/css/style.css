@@ -22,12 +22,12 @@ body {
       font-size: 16px; } }
 
 a {
-  color: #FFC300;
+  color: #78608B;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
   a:hover, a:active, a:focus {
-    color: #FFC300;
+    color: #78608B;
     outline: none;
     text-decoration: none !important; }
 
@@ -57,15 +57,15 @@ figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #FFC300; }
+  background: #78608B; }
 
 ::-moz-selection {
   color: #fff;
-  background: #FFC300; }
+  background: #78608B; }
 
 ::selection {
   color: #fff;
-  background: #FFC300; }
+  background: #78608B; }
 
 #colorlib-page {
   width: 100%;
@@ -148,7 +148,7 @@ figure {
           bottom: 7px;
           left: 0;
           right: 0;
-          background-color: #FFC300;
+          background-color: #78608B;
           visibility: hidden;
           -webkit-transform: scaleX(0);
           -moz-transform: scaleX(0);
