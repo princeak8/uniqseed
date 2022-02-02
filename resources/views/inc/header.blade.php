@@ -2,7 +2,8 @@
 		<aside id="colorlib-aside" role="complementary" class="border js-fullheight">
 			<div id="colorlib-logo">
 				<a href="{{ route('index') }}">
-					<img src="{{ asset('images/logo.jpeg') }}"style="border-radius:10px; transform: scale(0.7);" alt="">
+					<img src="{{ asset('images/logo.jpeg') }}"style="margin-top: -60px; margin-left:-15px; 
+					padding-top: 0; border-radius:10px; transform: scale(0.7);" alt="">
 				</a>
 			</div>
 			<!-- <h1 id="colorlib-logo"><a href="{{ route('index') }}">UNIQSEED</a></h1> -->
