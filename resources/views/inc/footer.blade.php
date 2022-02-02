@@ -1,7 +1,3 @@
-<!-- <div style="height: 100px; width:100%; padding-left: 5%">
-        Footer Goes here
-        
-</div> -->
         
 	<!-- jQuery -->
 	<!-- <script src="js/jquery.min.js"></script> -->
@@ -40,9 +36,3 @@
 	<!-- MAIN JS -->
 	<!-- <script src="js/main.js"></script> -->
 	<script src="{{ asset('js/main.js') }}"></script>
-
-
-
-</body>
-
-</html>
