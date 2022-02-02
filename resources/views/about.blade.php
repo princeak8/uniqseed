@@ -8,7 +8,7 @@
     <div class="colorlib-narrow-content">
         <div class="row row-bottom-padded-md">
             <div class="col-md-6">
-                <div class="about-img animate-box" data-animate-effect="fadeInLeft" style="background-image: url(images/img_bg_2.jpg);">
+                <div class="about-img animate-box" data-animate-effect="fadeInLeft" style="background-image: url(images/img_bg_44.jpg);">
                 </div>
             </div>
             <div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">

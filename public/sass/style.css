@@ -27,13 +27,13 @@ body {
 }
 
 a {
-  color: #78608B;
+  color: #8b3eca;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
 
 a:hover, a:active, a:focus {
-  color: #78608B;
+  color: #8b3eca;
   outline: none;
   text-decoration: none !important;
 }
@@ -72,17 +72,17 @@ figure figcaption {
 
 ::-webkit-selection {
   color: #fff;
-  background: #78608B;
+  background: #8b3eca;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #78608B;
+  background: #8b3eca;
 }
 
 ::selection {
   color: #fff;
-  background: #78608B;
+  background: #8b3eca;
 }
 
 #colorlib-page {
@@ -186,7 +186,7 @@ figure figcaption {
   bottom: 7px;
   left: 0;
   right: 0;
-  background-color: #78608B;
+  background-color: #8b3eca;
   visibility: hidden;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
@@ -206,7 +206,7 @@ figure figcaption {
 }
 
 #colorlib-aside #colorlib-main-menu ul li.colorlib-active a {
-  color: #78608B;
+  color: #8b3eca;
 }
 
 #colorlib-aside #colorlib-main-menu ul li.colorlib-active a:after {
@@ -259,7 +259,7 @@ figure figcaption {
 #colorlib-aside .colorlib-footer ul li a:hover, #colorlib-aside .colorlib-footer ul li a:active, #colorlib-aside .colorlib-footer ul li a:focus {
   text-decoration: none;
   outline: none;
-  color: #78608B;
+  color: #8b3eca;
 }
 
 #colorlib-main {
@@ -341,7 +341,7 @@ figure figcaption {
 #colorlib-hero .flexslider .flex-control-nav li a.flex-active {
   cursor: pointer;
   background: transparent;
-  border: 2px solid #78608B;
+  border: 2px solid #8b3eca;
 }
 
 #colorlib-hero .flexslider .flex-direction-nav {
@@ -368,7 +368,7 @@ figure figcaption {
   bottom: 0;
   right: -15px;
   padding: 30px;
-  background: #78608B;
+  background: #8b3eca;
 }
 
 @media screen and (max-width: 768px) {
@@ -546,7 +546,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
   width: 60px;
   height: 4px;
   content: '';
-  background: #78608B;
+  background: #8b3eca;
 }
 
 .colorlib-heading span {
@@ -638,11 +638,11 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .steps:hover i {
-  color: #78608B !important;
+  color: #8b3eca !important;
 }
 
 .steps.active i {
-  color: #78608B !important;
+  color: #8b3eca !important;
 }
 
 .fancy-collapse-panel .panel-default > .panel-heading {
@@ -766,7 +766,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 .colorlib-feature .colorlib-icon i {
   display: table-cell;
   vertical-align: middle;
-  color: #78608B;
+  color: #8b3eca;
   font-size: 60px;
   height: 100px;
 }
@@ -801,7 +801,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .colorlib-feature.colorlib-feature-sm .colorlib-icon i {
-  color: #78608B;
+  color: #8b3eca;
   font-size: 40px;
 }
 
@@ -1097,7 +1097,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
   width: 100px;
   height: 100px;
   font-size: 50px;
-  color: #78608B;
+  color: #8b3eca;
   background: #fff;
   border-radius: 50%;
 }
@@ -1174,13 +1174,13 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .colorlib-social li a:hover {
-  color: #78608B;
+  color: #8b3eca;
 }
 
 .colorlib-social li a:hover, .colorlib-social li a:active, .colorlib-social li a:focus {
   outline: none;
   text-decoration: none;
-  color: #78608B;
+  color: #8b3eca;
 }
 
 #map {
@@ -1220,9 +1220,9 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .pagination li a:hover, .pagination li a:focus {
-  background: #78608B;
+  background: #8b3eca;
   color: #fff;
-  border: 1px solid #78608B;
+  border: 1px solid #8b3eca;
 }
 
 @media screen and (max-width: 768px) {
@@ -1232,14 +1232,14 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .pagination li.active a {
-  background: #78608B;
-  border: 1px solid #78608B !important;
+  background: #8b3eca;
+  border: 1px solid #8b3eca !important;
 }
 
 .pagination li.active a:hover, .pagination li.active a:focus {
-  background: #78608B;
+  background: #8b3eca;
   color: #fff;
-  border: 1px solid #78608B !important;
+  border: 1px solid #8b3eca !important;
 }
 
 .btn {
@@ -1275,24 +1275,24 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .btn-primary {
-  background: #78608B;
+  background: #8b3eca;
   color: #fff;
-  border: 2px solid #78608B;
+  border: 2px solid #8b3eca;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #856b99 !important;
-  border-color: #856b99 !important;
+  background: #9752cf !important;
+  border-color: #9752cf !important;
 }
 
 .btn-primary.btn-outline {
   background: transparent;
-  color: #78608B;
-  border: 2px solid #78608B;
+  color: #8b3eca;
+  border: 2px solid #8b3eca;
 }
 
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #78608B;
+  background: #8b3eca;
   color: #fff;
 }
 
