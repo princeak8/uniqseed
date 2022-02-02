@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <html>
-	<head>
+    <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Balay Template</title>
@@ -24,6 +24,7 @@
 	<link rel="shortcut icon" href="favicon.ico">
 
 	<link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700" rel="stylesheet">
+	
 	
 	<!-- Animate.css -->
 	<link rel="stylesheet" href="{{ asset('css/animate.css') }}" />
