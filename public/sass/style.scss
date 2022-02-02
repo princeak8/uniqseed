@@ -5,7 +5,9 @@ $grid-gutter-width: 40px !default;
 $border-radius-base:  4px !default;
 $padding-base-vertical: 14px !default;
 
-$brand-primary: #FFC300 !default;
+// $brand-primary: #FFC300 !default;
+$brand-primary: #78608B !default;
+$brand-primary: #e8d7f5 !default;
 $brand-footer: #2C2C2C !default;
 
 
@@ -118,6 +120,7 @@ body {
 		font-size: 16px;
 	}	
 }
+
 a {
 	color: $brand-primary;
 	@include transition(.5s);
@@ -523,6 +526,7 @@ body {
 	clear: both;
 	width: 100%;
 	display: block;
+	
 	@media screen and(max-width: $screen-sm){
 		padding-top: 5em;
 		padding-bottom: 8em;
@@ -736,7 +740,9 @@ content: "\ea1c";
 			text-transform: uppercase;
 		}
 	}
+	
 }
+
 .move-bottom{
 	margin-top: 100px;
 	@media screen and(max-width: $screen-sm){

@@ -1,6 +1,11 @@
 
 		<aside id="colorlib-aside" role="complementary" class="border js-fullheight">
-			<h1 id="colorlib-logo"><a href="{{ route('index') }}">UNIQSEED</a></h1>
+			<div id="colorlib-logo">
+				<a href="{{ route('index') }}">
+					<img src="{{ asset('images/logo.jpeg') }}"style="border-radius:10px; transform: scale(0.7);" alt="">
+				</a>
+			</div>
+			<!-- <h1 id="colorlib-logo"><a href="{{ route('index') }}">UNIQSEED</a></h1> -->
 			<nav id="colorlib-main-menu" role="navigation">
 				<ul>
 					<!-- <li class="colorlib-active"><a href="index.html">Home</a></li> -->

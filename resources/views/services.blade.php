@@ -20,7 +20,7 @@
 											<i class="flaticon-worker"></i>
 										</div>
 										<div class="colorlib-text">
-											<h3>General Conctructing</h3>
+											<h3>Engineering</h3>
 											<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
 										</div>
 									</div>
@@ -30,7 +30,24 @@
 											<i class="flaticon-sketch"></i>
 										</div>
 										<div class="colorlib-text">
-											<h3>Pre-Contruction Design</h3>
+											<a href="#">
+											<h3>Tank, Vessel and Piping Inspections</h3>
+											<p>Uniqseed Industries is the one name to know when it comes to complete tank, vessel, and piping 
+												inspections. With EWI, there are no delays or scheduling of multiple inspections. Our inspectors are fully-equipped with 
+												the technology - including an ultrasonic magnetic tank crawler and drones/UAVs
+											</p>
+
+											</a>
+											
+										</div>
+									</div>
+
+									<div class="colorlib-feature animate-box" data-animate-effect="fadeInLeft">
+										<div class="colorlib-icon">
+											<i class="flaticon-worker"></i>
+										</div>
+										<div class="colorlib-text">
+											<h3>Works</h3>
 											<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
 										</div>
 									</div>
@@ -45,7 +62,7 @@
 											<i class="flaticon-engineering"></i>
 										</div>
 										<div class="colorlib-text">
-											<h3>Building &amp; Modeling</h3>
+											<h3>Commisioning and Decommisioning</h3>
 											<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
 										</div>
 									</div>
@@ -55,7 +72,7 @@
 											<i class="flaticon-crane"></i>
 										</div>
 										<div class="colorlib-text">
-											<h3>Construction Management</h3>
+											<h3>Online Task Manager Software</h3>
 											<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
 										</div>
 									</div>
@@ -107,8 +124,128 @@
 							</a>
 						</div>
 					</div>
+					<div id="section1" class="row" style="background-color: #e8d7f5; margin-bottom: 10px;">
+
+						<div class="col-md-8 animate-box service-content" data-animate-effect="fadeInLeft">
+							<div style="border-right: solid 1px #ccbbd8; margin:25px;">
+								<h1>Engineering</h1>
+								<p style="padding: 10px;">
+									Uniqseed Industries is the one name to know when it comes to complete tank, vessel, and piping inspections. With EWI,
+									ere are no delays or scheduling of multiple inspections.Our inspectors are fully-equipped with the technology 
+									including an ultrasonic magnetic tank crawler and drones/UAVs 
+									to conduct the following inspections, any time, any where in the continental United States and beyond:
+								</p>
+							</div>
+						</div>
+						<div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+							<ul style="padding-top: 70px;">
+								<li><a href="#">Engineering 1</a></li>
+								<li><a href="#">Engineering 2</a></li>
+								<li><a href="#">Engineering 3</a></li>
+							</ul>
+						</div>
+							
+					</div>
+					<div id="section2" class="row" style="background-color: #dbd5df; margin-bottom: 10px;">
+
+						<div class="col-md-8 animate-box service-content" data-animate-effect="fadeInLeft" >
+							<div style="border-right: solid 1px #ccbbd8; margin:25px;">
+								<h1>Tank, Vessel and Piping Inspection</h1>
+									<p style="padding: 10px;">
+										Uniqseed Industries is the one name to know when it comes to complete tank, vessel, and piping inspections. With EWI,
+										ere are no delays or scheduling of multiple inspections.Our inspectors are fully-equipped with the technology 
+										including an ultrasonic magnetic tank crawler and drones/UAVs 
+										to conduct the following inspections, any time, any where in the continental United States and beyond:
+									</p>
+									<ul>
+										<li>Tanks – Steel Tank Institute (STI) SP001</li>
+										<li>Tanks – American Petroleum Institute (API)-653</li>
+										<li>Tanks – National Fire Protection Association (NFPA) and American Water Works Association (AWWA)</li>
+										<li>Pressure Vessels – American Petroleum Institute (API)-510</li>
+										<li>Piping – American Petroleum Institute (API)-570</li>
+										<li>OSHA-Mechanical Integrity Inspections For Process Safety Management (PSM)</li>
+									</ul>
+							</div>
+							
+						</div>
+						<div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+							<ul style="padding-top: 70px;">
+								<li><a href="#">Engineering 1</a></li>
+								<li><a href="#">Engineering 2</a></li>
+								<li><a href="#">Engineering 3</a></li>
+							</ul>
+						</div>
+							
+					</div>
+					<div id="section3" class="row" style="background-color: #e8d7f5; margin-bottom: 10px;">
+
+						<div class="col-md-8 animate-box service-content" data-animate-effect="fadeInLeft">
+							<div style="border-right: solid 1px #ccbbd8; margin:25px;">
+								<h1>Works</h1>
+								<p style="padding: 10px;">
+									Uniqseed Industries is the one name to know when it comes to complete tank, vessel, and piping inspections. With EWI,
+									ere are no delays or scheduling of multiple inspections.Our inspectors are fully-equipped with the technology 
+									including an ultrasonic magnetic tank crawler and drones/UAVs 
+									to conduct the following inspections, any time, any where in the continental United States and beyond:
+								</p>
+							</div>
+						</div>
+						<div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+							<ul style="padding-top: 70px;">
+								<li><a href="#">Engineering 1</a></li>
+								<li><a href="#">Engineering 2</a></li>
+								<li><a href="#">Engineering 3</a></li>
+							</ul>
+						</div>
+							
+					</div>
+					<div id="section4" class="row" style="background-color: #dbd5df; margin-bottom: 10px;">
+
+						<div class="col-md-8 animate-box service-content" data-animate-effect="fadeInLeft">
+							<div style="border-right: solid 1px #ccbbd8; margin:25px;">
+								<h1>Commissioning and Decommissioning</h1>
+								<p style="padding: 10px;">
+									Uniqseed Industries is the one name to know when it comes to complete tank, vessel, and piping inspections. With EWI,
+									ere are no delays or scheduling of multiple inspections.Our inspectors are fully-equipped with the technology 
+									including an ultrasonic magnetic tank crawler and drones/UAVs 
+									to conduct the following inspections, any time, any where in the continental United States and beyond:
+								</p>
+							</div>
+						</div>
+						<div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+							<ul style="padding-top: 70px;">
+								<li><a href="#">Engineering 1</a></li>
+								<li><a href="#">Engineering 2</a></li>
+								<li><a href="#">Engineering 3</a></li>
+							</ul>
+						</div>
+							
+					</div>
+					<div id="section5" class="row" style="background-color: #e8d7f5; margin-bottom: 10px;">
+
+						<div class="col-md-8 animate-box service-content" data-animate-effect="fadeInLeft">
+							<div style="border-right: solid 1px #ccbbd8; margin:25px;">
+								<h1>Online Task Manager Software</h1>
+								<p style="padding: 10px;">
+									Uniqseed Industries is the one name to know when it comes to complete tank, vessel, and piping inspections. With EWI,
+									ere are no delays or scheduling of multiple inspections.Our inspectors are fully-equipped with the technology 
+									including an ultrasonic magnetic tank crawler and drones/UAVs 
+									to conduct the following inspections, any time, any where in the continental United States and beyond:
+								</p>
+							</div>
+						</div>
+						<div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+							<ul style="padding-top: 70px;">
+								<li><a href="#">Engineering 1</a></li>
+								<li><a href="#">Engineering 2</a></li>
+								<li><a href="#">Engineering 3</a></li>
+							</ul>
+						</div>
+							
+					</div>
 				</div>
 			</div>
+			<!-- ................. GET IN TOUCH ................. -->
 
 			<div id="get-in-touch" class="colorlib-bg-color">
 				<div class="colorlib-narrow-content">
@@ -127,9 +264,5 @@
 				</div>
 			</div>
 		</div>
-
-    <!-- <div style="height: 100px; width:100%; padding-left: 5%">
-        Services Content Goes here
-    </div> -->
 
     @endsection
