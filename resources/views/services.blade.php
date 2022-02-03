@@ -20,8 +20,15 @@
 											<i class="flaticon-worker"></i>
 										</div>
 										<div class="colorlib-text">
-											<h3>Engineering</h3>
-											<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+												<a href="#section1">
+													<h3>Engineering</h3>
+													<p>The nation’s largest and most respected companies choose UIL for our 
+														skilled field services crews and equipment fleet, both of which are ready and able to respond to any situation,
+														anywhere. Our field service workers and engineers are trained up, educated, and certified to handle any need your company may have.
+														
+													</p>
+												</a>
+											
 										</div>
 									</div>
 
@@ -30,15 +37,13 @@
 											<i class="flaticon-sketch"></i>
 										</div>
 										<div class="colorlib-text">
-											<a href="#">
-											<h3>Tank, Vessel and Piping Inspections</h3>
-											<p>Uniqseed Industries is the one name to know when it comes to complete tank, vessel, and piping 
-												inspections. With EWI, there are no delays or scheduling of multiple inspections. Our inspectors are fully-equipped with 
-												the technology - including an ultrasonic magnetic tank crawler and drones/UAVs
-											</p>
-
-											</a>
-											
+											<a href="#section2">
+												<h3>Tank, Vessel and Piping Inspections</h3>
+												<p>Uniqseed Industries Limited is the one name to know when it comes to complete tank, vessel, and piping 
+													inspections. With UIL, there are no delays or scheduling of multiple inspections. Our inspectors are fully-equipped with 
+													the technology - including an ultrasonic magnetic tank crawler and drones/UAVs
+												</p>
+											</a>											
 										</div>
 									</div>
 
@@ -47,8 +52,14 @@
 											<i class="flaticon-worker"></i>
 										</div>
 										<div class="colorlib-text">
-											<h3>Works</h3>
-											<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+											<a href="#section3">
+												<h3>Works</h3>
+												<p>
+													Our services teams located at strategic sites are professionally trained, flexible,
+													reliable, and ready to work. We understand the intricacies of the manufacturing industry, 
+													ensuring unparalleled results, constant communication, and strong attention to detail and safety.
+												</p>
+											</a>											
 										</div>
 									</div>
 								</div>
@@ -62,8 +73,15 @@
 											<i class="flaticon-engineering"></i>
 										</div>
 										<div class="colorlib-text">
-											<h3>Commisioning and Decommisioning</h3>
-											<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+											<a href="#section4">
+												<h3>Commisioning and Decommisioning</h3>
+												<p>
+													Commissioning is a critical stage in the life of any facility. The process may be thought of as a 
+													series of vital checks that are undertaken before actual operation begins.
+													Decommissioning experts have experience of large-scale decommissioning, unique tools and a global network of
+													expertise at their fingertips, we can be trusted to safely and cost-effectively remove your redundant facilities. 
+												</p>
+											</a>
 										</div>
 									</div>
 
@@ -72,11 +90,12 @@
 											<i class="flaticon-crane"></i>
 										</div>
 										<div class="colorlib-text">
-											<h3>Online Task Manager Software</h3>
-											<p>Our compliance reporting is best handled proactively. Virtual Task Manager (VTM) will 
-												help you stay on top of your documentation and organize all of it in one place. 
-											</p>
-
+											<a href="#section5">
+												<h3>Online Task Manager Software</h3>
+												<p>Our compliance reporting is best handled proactively. Online Task Manager (OTM) will 
+													help you stay on top of your documentation and organize all of it in one place. 
+												</p>
+											</a>
 										</div>
 									</div>
 								</div>
@@ -85,7 +104,7 @@
 					</div>
 					<div class="row">
 						<div class="col-md-4">
-							<a href="services.html" class="services-wrap animate-box" data-animate-effect="fadeInRight">
+							<a href="#section1" class="services-wrap animate-box" data-animate-effect="fadeInRight">
 								<div class="services-img" style="background-image: url(images/serv1.jpg)"></div>
 								<div class="desc">
 									<h3>Engineering</h3>
@@ -93,7 +112,7 @@
 							</a>
 						</div>
 						<div class="col-md-4">
-							<a href="services.html" class="services-wrap animate-box" data-animate-effect="fadeInRight">
+							<a href="#section2" class="services-wrap animate-box" data-animate-effect="fadeInRight">
 								<div class="services-img" style="background-image: url(images/img_tnk.png)"></div>
 								<div class="desc">
 									<h3>Tank, Vessel and Piping Inspections</h3>
@@ -101,7 +120,7 @@
 							</a>
 						</div>
 						<div class="col-md-4">
-							<a href="services.html" class="services-wrap animate-box" data-animate-effect="fadeInRight">
+							<a href="#section3" class="services-wrap animate-box" data-animate-effect="fadeInRight">
 								<div class="services-img" style="background-image: url(images/serv2.jpg)"></div>
 								<div class="desc">
 									<h3>Works</h3>
@@ -111,7 +130,7 @@
 					</div>
 					<div class="row">
 						<div class="col-md-4">
-							<a href="services.html" class="services-wrap animate-box" data-animate-effect="fadeInRight">
+							<a href="#section4" class="services-wrap animate-box" data-animate-effect="fadeInRight">
 								<div class="services-img" style="background-image: url(images/img_bg_55.jpeg)"></div>
 								<div class="desc">
 									<h3>Commisioning and Decommisioning</h3>
@@ -119,7 +138,7 @@
 							</a>
 						</div>
 						<div class="col-md-4">
-							<a href="services.html" class="services-wrap animate-box" data-animate-effect="fadeInRight">
+							<a href="#section5" class="services-wrap animate-box" data-animate-effect="fadeInRight">
 								<div class="services-img" style="background-image: url(images/img_soft.jpg)"></div>
 								<div class="desc">
 									<h3>Online Task Manager Software</h3>
@@ -132,19 +151,20 @@
 						<div class="col-md-8 animate-box service-content" data-animate-effect="fadeInLeft">
 							<div style="border-right: solid 1px #ccbbd8; margin:25px;">
 								<h1>Engineering</h1>
-								<p style="padding: 10px;">
-									Uniqseed Industries is the one name to know when it comes to complete tank, vessel, and piping inspections. With EWI,
-									ere are no delays or scheduling of multiple inspections.Our inspectors are fully-equipped with the technology 
-									including an ultrasonic magnetic tank crawler and drones/UAVs 
-									to conduct the following inspections, any time, any where in the continental United States and beyond:
+								<p>The nation’s largest and most respected companies choose UIL for our 
+									skilled field services crews and equipment fleet, both of which are ready and able to respond to any situation,
+									anywhere. Our field service workers are trained up, educated, and certified to handle any need your company may have.
+									UIL has the engineers, equipment, and expertise to handle every aspect of your project. 
+									Who better to work on your field contracting needs than the same company that helped you plan and manage 
+									your environmental project?
 								</p>
 							</div>
 						</div>
 						<div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-							<ul style="padding-top: 70px;">
-								<li><a href="#">Engineering 1</a></li>
-								<li><a href="#">Engineering 2</a></li>
-								<li><a href="#">Engineering 3</a></li>
+							<ul style="padding-top: 70px; text-color: #780ad1; font-weight:bold;">
+								<li><a href="#">Field Services and Contracting</a></li>
+								<li><a href="#">Demolition and Construction</a></li>
+								<li><a href="#">Industrial Cleaning</a></li>
 							</ul>
 						</div>
 							
@@ -154,7 +174,7 @@
 						<div class="col-md-8 animate-box service-content" data-animate-effect="fadeInLeft" >
 							<div style="border-right: solid 1px #ccbbd8; margin:25px;">
 								<h1>Tank, Vessel and Piping Inspection</h1>
-									<p style="padding: 10px;">
+									<p>
 										Uniqseed Industries is the one name to know when it comes to complete tank, vessel, and piping inspections. With EWI,
 										ere are no delays or scheduling of multiple inspections.Our inspectors are fully-equipped with the technology 
 										including an ultrasonic magnetic tank crawler and drones/UAVs 
@@ -162,10 +182,10 @@
 									</p>
 									<ul>
 										<li>Tanks – Steel Tank Institute (STI) SP001</li>
-										<li>Tanks – American Petroleum Institute (API)-653</li>
-										<li>Tanks – National Fire Protection Association (NFPA) and American Water Works Association (AWWA)</li>
-										<li>Pressure Vessels – American Petroleum Institute (API)-510</li>
-										<li>Piping – American Petroleum Institute (API)-570</li>
+										<li>Tanks – Nigerian Petroleum Institute (NPI)-653</li>
+										<li>Tanks – National Fire Protection Association (NFPA) and Nigerian Water Works Association</li>
+										<li>Pressure Vessels – Nigerian Petroleum Institute (NPI)-510</li>
+										<li>Piping – Nigerian Petroleum Institute (NPI)-570</li>
 										<li>OSHA-Mechanical Integrity Inspections For Process Safety Management (PSM)</li>
 									</ul>
 							</div>
@@ -185,19 +205,18 @@
 						<div class="col-md-8 animate-box service-content" data-animate-effect="fadeInLeft">
 							<div style="border-right: solid 1px #ccbbd8; margin:25px;">
 								<h1>Works</h1>
-								<p style="padding: 10px;">
-									Uniqseed Industries is the one name to know when it comes to complete tank, vessel, and piping inspections. With EWI,
-									ere are no delays or scheduling of multiple inspections.Our inspectors are fully-equipped with the technology 
-									including an ultrasonic magnetic tank crawler and drones/UAVs 
-									to conduct the following inspections, any time, any where in the continental United States and beyond:
+								<p>
+									Our services teams  located at sites throughout the central states  are professionally trained, flexible,
+									reliable, and ready to work. We understand the intricacies of the manufacturing industry, 
+									ensuring unparalleled results, constant communication, and strong attention to detail and safety.
 								</p>
 							</div>
 						</div>
 						<div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-							<ul style="padding-top: 70px;">
-								<li><a href="#">Engineering 1</a></li>
-								<li><a href="#">Engineering 2</a></li>
-								<li><a href="#">Engineering 3</a></li>
+						<ul style="padding-top: 70px; text-color: #780ad1; font-weight:bold;">
+								<li><a href="#">Field Services and Contracting</a></li>
+								<li><a href="#">Demolition and Construction</a></li>
+								<li><a href="#">Industrial Cleaning</a></li>
 							</ul>
 						</div>
 							
@@ -208,18 +227,27 @@
 							<div style="border-right: solid 1px #ccbbd8; margin:25px;">
 								<h1>Commissioning and Decommissioning</h1>
 								<p style="padding: 10px;">
-									Uniqseed Industries is the one name to know when it comes to complete tank, vessel, and piping inspections. With EWI,
-									ere are no delays or scheduling of multiple inspections.Our inspectors are fully-equipped with the technology 
-									including an ultrasonic magnetic tank crawler and drones/UAVs 
-									to conduct the following inspections, any time, any where in the continental United States and beyond:
+									Commissioning is a critical stage in the life of any facility. The process may be thought of as a 
+									series of vital checks that are undertaken before actual operation begins. Our complete commissioning 
+									services can play an important role in minimizing project risks and achieving performance goals right from the start.
+									At UIL, it's our job to prove the integrity of all systems, identifying and correcting design and 
+									construction errors along the way. Our comprehensive approach helps our clients meet a host of challenges 
+									that arise from a project's very beginning, such as cost control; schedule adherence; regulatory, 
+									safety and environmental compliance; and operational performance.Clearly, the safe, efficient operation
+									of every facility is our goal. Toward that end, we undertake complete responsibility for commissioning, 
+									whether we start in the engineering office, provide expertise in the fabrication yard or mobilize to a remote area.
+								</p>
+								<p>
+									Decommissioning experts have experience of large-scale decommissioning, unique tools and a global network of
+									 expertise at their fingertips, we can be trusted to safely and cost-effectively remove your redundant facilities.
 								</p>
 							</div>
 						</div>
 						<div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-							<ul style="padding-top: 70px;">
-								<li><a href="#">Engineering 1</a></li>
-								<li><a href="#">Engineering 2</a></li>
-								<li><a href="#">Engineering 3</a></li>
+							<ul style="padding-top: 70px; text-color: #780ad1; font-weight:bold;">
+								<li><a href="#">Consulting</a></li>
+								<li><a href="#">Supervision</a></li>
+								<li><a href="#">Provision of Technicians</a></li>
 							</ul>
 						</div>
 							

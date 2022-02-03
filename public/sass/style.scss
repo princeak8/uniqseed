@@ -9,7 +9,9 @@ $padding-base-vertical: 14px !default;
 $brand-primary: #780ad1 !default;
 // $brand-primary: #78608B !default;
 // $brand-primary: #e8d7f5 !default;
-$brand-footer: #2C2C2C !default;
+$brand-footer: #baaabb !default;
+// $brand-footer: rgb(186,170,187, 0.2) !default;
+// $brand-footer: #2C2C2C !default;
 
 
 
@@ -190,7 +192,7 @@ figure {
 	left: 0;	
 	overflow-y: scroll;
 	z-index: 1001;
-	background: $brand-footer;
+	background: $brand-white;
 	@include transition(.5s);
 	@media screen and (max-width: $screen-lg) {
 		width: 30%;
@@ -201,7 +203,7 @@ figure {
 		padding-top: 4em;
 	}
 	#colorlib-logo {
-		text-align: right;
+		// text-align: right;
 		font-weight: 700;
 		font-size: 22px;
 		text-transform: uppercase;

@@ -27,13 +27,13 @@ body {
 }
 
 a {
-  color: #8b3eca;
+  color: #780ad1;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
 
 a:hover, a:active, a:focus {
-  color: #8b3eca;
+  color: #780ad1;
   outline: none;
   text-decoration: none !important;
 }
@@ -72,17 +72,17 @@ figure figcaption {
 
 ::-webkit-selection {
   color: #fff;
-  background: #8b3eca;
+  background: #780ad1;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #8b3eca;
+  background: #780ad1;
 }
 
 ::selection {
   color: #fff;
-  background: #8b3eca;
+  background: #780ad1;
 }
 
 #colorlib-page {
@@ -103,7 +103,7 @@ figure figcaption {
   left: 0;
   overflow-y: scroll;
   z-index: 1001;
-  background: #2C2C2C;
+  background: #fff;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -124,7 +124,6 @@ figure figcaption {
 }
 
 #colorlib-aside #colorlib-logo {
-  text-align: right;
   font-weight: 700;
   font-size: 22px;
   text-transform: uppercase;
@@ -186,7 +185,7 @@ figure figcaption {
   bottom: 7px;
   left: 0;
   right: 0;
-  background-color: #8b3eca;
+  background-color: #780ad1;
   visibility: hidden;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
@@ -206,7 +205,7 @@ figure figcaption {
 }
 
 #colorlib-aside #colorlib-main-menu ul li.colorlib-active a {
-  color: #8b3eca;
+  color: #780ad1;
 }
 
 #colorlib-aside #colorlib-main-menu ul li.colorlib-active a:after {
@@ -259,7 +258,7 @@ figure figcaption {
 #colorlib-aside .colorlib-footer ul li a:hover, #colorlib-aside .colorlib-footer ul li a:active, #colorlib-aside .colorlib-footer ul li a:focus {
   text-decoration: none;
   outline: none;
-  color: #8b3eca;
+  color: #780ad1;
 }
 
 #colorlib-main {
@@ -341,7 +340,7 @@ figure figcaption {
 #colorlib-hero .flexslider .flex-control-nav li a.flex-active {
   cursor: pointer;
   background: transparent;
-  border: 2px solid #8b3eca;
+  border: 2px solid #780ad1;
 }
 
 #colorlib-hero .flexslider .flex-direction-nav {
@@ -368,7 +367,7 @@ figure figcaption {
   bottom: 0;
   right: -15px;
   padding: 30px;
-  background: #8b3eca;
+  background: #780ad1;
 }
 
 @media screen and (max-width: 768px) {
@@ -471,7 +470,7 @@ body.offcanvas #colorlib-aside {
   -webkit-transform: translateX(0);
   transform: translateX(0);
   width: 270px;
-  background: #2C2C2C;
+  background: #baaabb;
   z-index: 999;
   position: fixed;
 }
@@ -546,7 +545,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
   width: 60px;
   height: 4px;
   content: '';
-  background: #8b3eca;
+  background: #780ad1;
 }
 
 .colorlib-heading span {
@@ -638,11 +637,11 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .steps:hover i {
-  color: #8b3eca !important;
+  color: #780ad1 !important;
 }
 
 .steps.active i {
-  color: #8b3eca !important;
+  color: #780ad1 !important;
 }
 
 .fancy-collapse-panel .panel-default > .panel-heading {
@@ -766,7 +765,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 .colorlib-feature .colorlib-icon i {
   display: table-cell;
   vertical-align: middle;
-  color: #8b3eca;
+  color: #780ad1;
   font-size: 60px;
   height: 100px;
 }
@@ -801,7 +800,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .colorlib-feature.colorlib-feature-sm .colorlib-icon i {
-  color: #8b3eca;
+  color: #780ad1;
   font-size: 40px;
 }
 
@@ -1097,7 +1096,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
   width: 100px;
   height: 100px;
   font-size: 50px;
-  color: #8b3eca;
+  color: #780ad1;
   background: #fff;
   border-radius: 50%;
 }
@@ -1174,13 +1173,13 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .colorlib-social li a:hover {
-  color: #8b3eca;
+  color: #780ad1;
 }
 
 .colorlib-social li a:hover, .colorlib-social li a:active, .colorlib-social li a:focus {
   outline: none;
   text-decoration: none;
-  color: #8b3eca;
+  color: #780ad1;
 }
 
 #map {
@@ -1220,9 +1219,9 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .pagination li a:hover, .pagination li a:focus {
-  background: #8b3eca;
+  background: #780ad1;
   color: #fff;
-  border: 1px solid #8b3eca;
+  border: 1px solid #780ad1;
 }
 
 @media screen and (max-width: 768px) {
@@ -1232,14 +1231,14 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .pagination li.active a {
-  background: #8b3eca;
-  border: 1px solid #8b3eca !important;
+  background: #780ad1;
+  border: 1px solid #780ad1 !important;
 }
 
 .pagination li.active a:hover, .pagination li.active a:focus {
-  background: #8b3eca;
+  background: #780ad1;
   color: #fff;
-  border: 1px solid #8b3eca !important;
+  border: 1px solid #780ad1 !important;
 }
 
 .btn {
@@ -1275,24 +1274,24 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .btn-primary {
-  background: #8b3eca;
+  background: #780ad1;
   color: #fff;
-  border: 2px solid #8b3eca;
+  border: 2px solid #780ad1;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #9752cf !important;
-  border-color: #9752cf !important;
+  background: #860be9 !important;
+  border-color: #860be9 !important;
 }
 
 .btn-primary.btn-outline {
   background: transparent;
-  color: #8b3eca;
-  border: 2px solid #8b3eca;
+  color: #780ad1;
+  border: 2px solid #780ad1;
 }
 
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #8b3eca;
+  background: #780ad1;
   color: #fff;
 }
 

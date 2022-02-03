@@ -12,12 +12,30 @@
                 </div>
             </div>
             <div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-                <div class="about-desc">
-                    <span class="heading-meta">Welcome</span>
-                    <h2 class="colorlib-heading">Who we are</h2>
-                    <p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind Text should turn around and return to its own, safe country.</p>
-                    <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-                </div>
+            <div class="about-desc">
+								<span class="heading-meta">Welcome</span>
+								<h2 class="colorlib-heading">Who we are</h2>
+								<p>Uniqseed Industries Limited (UIL) is a full-service environmental consulting and contracting 
+									firm with a strong reputation for providing expert, turnkey solutions for both public and private sector clients.
+									Our roots are in environmental compliance, remediation and due diligence but we offer so much more.
+								</p>
+								<p>Uniqseed Industries Limited offers environmental consulting (geologists, engineers, chemists, 
+									biologists, regulatory experts), industrial services (industrial technicians, experienced heavy equipment operators,
+									and drillers) and emergency response (spill response personnel and equipment). 
+									This unique combination allows us to be flexible and cost-effective when planning and implementing projects.With offices
+									throughout the central states, UIL serves manufacturing companies, intermodal transportation companies,
+									 petroleum companies, government organizations (state, federal, local), real estate developers, financial and educational
+									  institutions, and more.
+								</p>
+								<h2 class="colorlib-heading">Our Vision:</h2>
+								<p>To be a team of enjoyable, productive people who believe that taking 
+									responsibility for our own happiness is the recipe for success.
+								</p>
+								<h2 class="colorlib-heading">Our Purpose:</h2>
+								<p>When our Clients have a need we dive in, diagnose, and apply the right 
+									combination of science, safety, grit and ingenuity.
+								</p>
+							</div>
                 <div class="row padding">
                     <div class="col-md-4 no-gutters animate-box" data-animate-effect="fadeInLeft">
                         <a href="#" class="steps active">
