@@ -15,9 +15,11 @@
             <div class="about-desc">
 								<span class="heading-meta">Welcome</span>
 								<h2 class="colorlib-heading">Who we are</h2>
-								<p>Uniqseed Industries Limited (UIL) is a full-service environmental consulting and contracting 
-									firm with a strong reputation for providing expert, turnkey solutions for both public and private sector clients.
-									Our roots are in environmental compliance, remediation and due diligence but we offer so much more.
+								<p>Uniqseed Industries Limited is among company in engineering, procurement, drilling and construction of major 
+                                    projects in the energy and infrastructure sectors. The company is organized in three business divisions, 
+                                    Offshore E&C, Onshore E&C (dedicated to conceptual design) and supply chain in procurement. 
+                                    Uniqseed is an excellent solution provider with distinctive skills and competences by applying high-techology 
+                                    assets to identified solutions aimed at satisfying customer requirements.
 								</p>
 								<p>Uniqseed Industries Limited offers environmental consulting (geologists, engineers, chemists, 
 									biologists, regulatory experts), industrial services (industrial technicians, experienced heavy equipment operators,
@@ -163,17 +165,14 @@
         </div>
         <div class="row">
             <div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                <p class="colorlib-lead">Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-                <p><a href="#" class="btn btn-primary btn-learn">Contact me!</a></p>
+                <p class="colorlib-lead">For your cost effective engineering solutions</p>
+                <p><a href="{{ route('contact') }}" class="btn btn-primary btn-learn"
+                    style="background-color: #78608B; border: solid 3px #baaabb;">Contact Us</a>
+                </p>
             </div>
-            
         </div>
     </div>
 </div>
 </div>
-
-<!-- <div style="height: 100px; width:100%; padding-left: 5%">
-    About Us Content Goes here
-</div> -->
 
 @endsection

@@ -1,38 +1,42 @@
-        
-	<!-- jQuery -->
-	<!-- <script src="js/jquery.min.js"></script> -->
-	<script src="{{ asset('js/jquery.min.js') }}"></script>
 
-	<!-- jQuery Easing -->
-	<!-- <script src="js/jquery.easing.1.3.js"></script> -->
-	<script src="{{ asset('js/jquery.easing.1.3.js') }}"></script>
+			<!-- jQuery -->
+			<!-- <script src="js/jquery.min.js"></script> -->
+			<script src="{{ asset('js/jquery.min.js') }}"></script>
 
-	<!-- Bootstrap -->
-	<!-- <script src="js/bootstrap.min.js"></script> -->
-	<script src="{{ asset('js/bootstrap.min.js') }}"></script>
+			<!-- jQuery Easing -->
+			<!-- <script src="js/jquery.easing.1.3.js"></script> -->
+			<script src="{{ asset('js/jquery.easing.1.3.js') }}"></script>
 
-	<!-- Waypoints -->
-	<!-- <script src="js/jquery.waypoints.min.js"></script> -->
-	<script src="{{ asset('js/jquery.waypoints.min.js') }}"></script>
+			<!-- Bootstrap -->
+			<!-- <script src="js/bootstrap.min.js"></script> -->
+			<script src="{{ asset('js/bootstrap.min.js') }}"></script>
 
-	<!-- Flexslider -->
-	<!-- <script src="js/jquery.flexslider-min.js"></script> -->
-	<script src="{{ asset('js/jquery.flexslider-min.js') }}"></script>
+			<!-- Waypoints -->
+			<!-- <script src="js/jquery.waypoints.min.js"></script> -->
+			<script src="{{ asset('js/jquery.waypoints.min.js') }}"></script>
 
-	<!-- Sticky Kit -->
-	<!-- <script src="js/sticky-kit.min.js"></script> -->
-	<script src="{{ asset('js/sticky-kit.min.js') }}"></script>
+			<!-- Flexslider -->
+			<!-- <script src="js/jquery.flexslider-min.js"></script> -->
+			<script src="{{ asset('js/jquery.flexslider-min.js') }}"></script>
 
-	<!-- Owl carousel -->
-	<!-- <script src="js/owl.carousel.min.js"></script> -->
-	<script src="{{ asset('js/owl.carousel.min.js') }}"></script>
+			<!-- Sticky Kit -->
+			<!-- <script src="js/sticky-kit.min.js"></script> -->
+			<script src="{{ asset('js/sticky-kit.min.js') }}"></script>
 
-	<!-- Counters -->
-	<!-- <script src="js/jquery.countTo.js"></script> -->
-	<script src="{{ asset('js/jquery.countTo.js') }}"></script>
+			<!-- Owl carousel -->
+			<!-- <script src="js/owl.carousel.min.js"></script> -->
+			<script src="{{ asset('js/owl.carousel.min.js') }}"></script>
 
+			<!-- Counters -->
+			<!-- <script src="js/jquery.countTo.js"></script> -->
+			<script src="{{ asset('js/jquery.countTo.js') }}"></script>
+
+
+
+			<!-- MAIN JS -->
+			<!-- <script src="js/main.js"></script> -->
+			<script src="{{ asset('js/main.js') }}" type="text/javascript"> </script>
+		
+	</body>
+</html>        
 	
-	
-	<!-- MAIN JS -->
-	<!-- <script src="js/main.js"></script> -->
-	<script src="{{ asset('js/main.js') }}"></script>

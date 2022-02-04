@@ -317,8 +317,10 @@
 					</div>
 					<div class="row">
 						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-							<p class="colorlib-lead">Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-							<p><a href="#" class="btn btn-primary btn-learn">Contact me!</a></p>
+							<p class="colorlib-lead">For your cost effective engineering solutions</p>
+							<p><a href="{{ route('contact') }}" class="btn btn-primary btn-learn" 
+								style="background-color: #78608B; border: solid 3px #baaabb;">Contact Us</a>
+							</p>
 						</div>
 						
 					</div>

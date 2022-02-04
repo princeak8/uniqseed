@@ -1,4 +1,5 @@
-;(function () {
+console.log('menu');
+(function () {
 	
 	'use strict';
 
@@ -97,7 +98,7 @@
 
 
 	var burgerMenu = function() {
-
+		console.log('menu');
 		$('.js-colorlib-nav-toggle').on('click', function(event){
 			event.preventDefault();
 			var $this = $(this);
@@ -224,6 +225,7 @@
 
 	// Document on load.
 	$(function(){
+		console.log('menu');
 		fullHeight();
 		counter();
 		counterWayPoint();
