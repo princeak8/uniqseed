@@ -1,4 +1,3 @@
-
 		<aside id="colorlib-aside" role="complementary" class="border js-fullheight" style="background-color: #baaabb;">
 			<div id="colorlib-logo">
 				<a href="{{ route('index') }}">
