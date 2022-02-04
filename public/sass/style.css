@@ -470,7 +470,7 @@ body.offcanvas #colorlib-aside {
   -webkit-transform: translateX(0);
   transform: translateX(0);
   width: 270px;
-  background: #baaabb;
+  background: #f8f8f8;
   z-index: 999;
   position: fixed;
 }
@@ -545,7 +545,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
   width: 60px;
   height: 4px;
   content: '';
-  background: #780ad1;
+  background-color: #780ad1;
 }
 
 .colorlib-heading span {

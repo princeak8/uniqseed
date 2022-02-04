@@ -44,25 +44,22 @@
 						<div class="col-md-7 col-md-push-1">
 							<div class="row">
 								<div class="col-md-10 col-md-offset-1 col-md-pull-1 animate-box" data-animate-effect="fadeInLeft">
-
-                                {{ Form::open(array('url' => 'foo/bar' , 'method' => 'post')) }}
-                                    <div class="form-group">
-                                        <input type="text" name="name" class="form-control" placeholder="Name" required>
-                                    </div>
-                                    <div class="form-group">
-                                        <input type="text" name="email" class="form-control" placeholder="Email">
-                                    </div>
-                                    
-                                    <div class="form-group">
-                                        <textarea name="message" id="message" cols="30" rows="7" class="form-control" placeholder="Message" required></textarea>
-                                    </div>
-                                    <div class="form-group">
-                                        <input type="submit" class="btn btn-primary btn-send-message" style="background-color: #78608B; 
-                                        border-radius: 10px; border: solid 3px #baaabb;" value="Send Message">
-                                    </div>
-                                    
-                                {{ Form::close() }}
-                                    
+                                    {{ Form::open(array('url' => 'foo/bar' , 'method' => 'post')) }}
+                                        <div class="form-group">
+                                            <input type="text" name="name" class="form-control" placeholder="Name" required>
+                                        </div>
+                                        <div class="form-group">
+                                            <input type="text" name="email" class="form-control" placeholder="Email">
+                                        </div>
+                                        
+                                        <div class="form-group">
+                                            <textarea name="message" id="message" cols="30" rows="7" class="form-control" placeholder="Message" required></textarea>
+                                        </div>
+                                        <div class="form-group">
+                                            <input type="submit" class="btn btn-primary btn-send-message" style="background-color: #78608B; 
+                                            border-radius: 10px; border: solid 3px #baaabb;" value="Send Message">
+                                        </div>    
+                                    {{ Form::close() }}     
 								</div>
 							</div>
 						</div>

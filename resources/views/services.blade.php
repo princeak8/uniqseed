@@ -148,7 +148,7 @@
 					</div>
 					<div id="section1" class="row" style="background-color: #e8d7f5; margin-bottom: 10px;">
 
-						<div class="col-md-8 animate-box service-content" data-animate-effect="fadeInLeft">
+						<div class="col-md-9 animate-box service-content" data-animate-effect="fadeInLeft">
 							<div style="border-right: solid 1px #ccbbd8; margin:25px;">
 								<h1>Engineering</h1>
 								<p>The nation’s largest and most respected companies choose UIL for our 
@@ -160,7 +160,7 @@
 								</p>
 							</div>
 						</div>
-						<div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+						<div class="col-md-3 animate-box" data-animate-effect="fadeInLeft">
 							<ul style="padding-top: 70px; text-color: #780ad1; font-weight:bold;">
 								<li><a href="#">Field Services and Contracting</a></li>
 								<li><a href="#">Demolition and Construction</a></li>
@@ -171,7 +171,7 @@
 					</div>
 					<div id="section2" class="row" style="background-color: #dbd5df; margin-bottom: 10px;">
 
-						<div class="col-md-8 animate-box service-content" data-animate-effect="fadeInLeft" >
+						<div class="col-md-9 animate-box service-content" data-animate-effect="fadeInLeft" >
 							<div style="border-right: solid 1px #ccbbd8; margin:25px;">
 								<h1>Tank, Vessel and Piping Inspection</h1>
 									<p>
@@ -183,7 +183,7 @@
 							</div>
 							
 						</div>
-						<div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+						<div class="col-md-3 animate-box" data-animate-effect="fadeInLeft">
 							<ul style="padding-top: 70px; text-color: #780ad1; font-weight:bold;">
 								<li><a href="#">STI SP001 Tank Inspections</a></li>
 							</ul>
@@ -192,7 +192,7 @@
 					</div>
 					<div id="section3" class="row" style="background-color: #e8d7f5; margin-bottom: 10px;">
 
-						<div class="col-md-8 animate-box service-content" data-animate-effect="fadeInLeft">
+						<div class="col-md-9 animate-box service-content" data-animate-effect="fadeInLeft">
 							<div style="border-right: solid 1px #ccbbd8; margin:25px;">
 								<h1>Works</h1>
 								<p>
@@ -202,7 +202,7 @@
 								</p>
 							</div>
 						</div>
-						<div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+						<div class="col-md-3 animate-box" data-animate-effect="fadeInLeft">
 						<ul style="padding-top: 70px; text-color: #780ad1; font-weight:bold;">
 								<li><a href="#">Field Services and Contracting</a></li>
 								<li><a href="#">Demolition and Construction</a></li>
@@ -213,7 +213,7 @@
 					</div>
 					<div id="section4" class="row" style="background-color: #dbd5df; margin-bottom: 10px;">
 
-						<div class="col-md-8 animate-box service-content" data-animate-effect="fadeInLeft">
+						<div class="col-md-9 animate-box service-content" data-animate-effect="fadeInLeft">
 							<div style="border-right: solid 1px #ccbbd8; margin:25px;">
 								<h1>Commissioning and Decommissioning</h1>
 								<p style="padding: 10px;">
@@ -233,7 +233,7 @@
 								</p>
 							</div>
 						</div>
-						<div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+						<div class="col-md-3 animate-box" data-animate-effect="fadeInLeft">
 							<ul style="padding-top: 70px; text-color: #780ad1; font-weight:bold;">
 								<li><a href="#">Consulting</a></li>
 								<li><a href="#">Supervision</a></li>
@@ -244,7 +244,7 @@
 					</div>
 					<div id="section5" class="row" style="background-color: #e8d7f5; margin-bottom: 10px;">
 
-						<div class="col-md-8 animate-box service-content" data-animate-effect="fadeInLeft">
+						<div class="col-md-9 animate-box service-content" data-animate-effect="fadeInLeft">
 							<div style="border-right: solid 1px #ccbbd8; margin:25px;">
 								<h1>Online Task Manager Software</h1>
 								<p style="padding: 10px;">
@@ -287,15 +287,91 @@
 								
 							</div>
 						</div>
-						<div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+						<div class="col-md-3 animate-box" data-animate-effect="fadeInLeft">
 							<ul style="padding-top: 70px; text-color: #780ad1; font-weight:bold;">
 								<li><a href="#">Training Services</a></li>
 							</ul>
 						</div>
 							
 					</div>
+					<div id="section6" class="row" style="background-color: #dbd5df; margin-bottom: 10px;">
+						<div class="col-md-9 animate-box service-content" data-animate-effect="fadeInLeft">
+							<div style="border-right: solid 1px #ccbbd8; margin:25px;">
+								<h1>Manufacturing</h1>
+								<p style="padding: 10px;">
+									We are committed towards the manufacturing of different agricultural products.<br/>
+									Agro products are the life force, the very source of survival for the human kind. It is not only that man breathes with the support of food but a major chunk of the world population is also dependent on agriculture as their source of survival. An approximate 36% of the world's workers are engaged in agriculture.<br/><br/>
+									UniqSeed Industries concentrates in the manufacturing of grains, Oil Seeds, and other unique agricultural products
+									<h5 style="mmargin-bottom: 1px;">WHAT WE MANUFACTURE</h5>
+									we are into the following but not limited to the list below :
+									<h5 style="margin-top:20px; margin-bottom: 1px;">GRAINS</h5>
+									We deals in all types of food grains. We specialized in supplying of wheat grains, rice food grains, 
+									wheat, maize, poha and other food grains. which are of high quality.
+									<h5 style="margin-top:20px; margin-bottom: 1px;">OIL SEED</h5>
+									Wilmar is engaged in the processing, refining, merchandising and distribution of oilseeds products 
+									such as soybean oil and meal, rapeseed oil and meal, sunflower seed oil and meal, cottonseed oil and meal, 
+									canola oil and meal, peanut oil and meal, and corn
+									<h5 style="margin-top:20px; margin-bottom: 1px;">SPICES</h5>
+									Spices are defined as dried seed or fruit, in whole or powder form, used as
+									food additives for enhancing the flavor or taste of a particular food item. India 
+									produces 3.2 million tonnes of various spices.
+								</p>
+							</div>
+						</div>
+						<div class="col-md-3 animate-box" data-animate-effect="fadeInLeft">
+							<ul style="padding-top: 70px; text-color: #780ad1; font-weight:bold;">
+								<li><a href="#">Manufacturing</a></li>
+							</ul>
+						</div>
+							
+					</div>
+					<div id="section7" class="row" style="background-color: #e8d7f5; margin-bottom: 10px;">
+						<div class="col-md-9 animate-box service-content" data-animate-effect="fadeInLeft">
+							<div style="border-right: solid 1px #ccbbd8; margin:25px;">
+								<h1>Procurement</h1>
+								<p style="padding: 10px;">
+									Uniqseed will handle your projects from start to finish, starting from planning, design, costly, proceurement,
+									construction and hand over. All the necessary equipments and materials required for a particular job will be 
+									acquired by us. Now if you have a job and you do not want us to handle the whole project we can still help 
+									you in procuring the equipments and materials needed for the project. The equipment/materials to be procured
+									are in line with the generally accepted engineering standard, in other words we are going to get you the best
+									equipments. All the logistics will be handled by us. Lets procure that equipments for you, you will never be
+									disappointed with what we can do for you, how else are we going to keep you coming back for more if not to
+									deliver the right equipments/materials as at when do. Do business with us today and you will be glad you did.
+									<h5 style="margin-bottom: 1px;">PROCUREMENT OPTIONS</h5>
+									we are into the following but not limited to the list below
+									<h5 style="margin-top:20px; margin-bottom: 1px;">CONSTRUCTION/BUILDING EQUIPMENTS</h5>
+									Get all your construction equipments here be it equipements for constructions of roads, buildings etc. 
+									We are here get you all the heavy machineries you need for your construction. Lets acquire those equipment for you.
+									<h5 style="margin-top:20px; margin-bottom: 1px;">SAFETY EQUIPMENTS/MATERIALS</h5>
+									Get all you safety equipments here safety gears, safety boots, goggles, gloves etc. 
+									We will get you all types of safety equipments, safety is paramount in all engineering works.
+									<h5 style="margin-top:20px; margin-bottom: 1px;">INDUSTRIAL EQUIPMENTS/MATERIALS</h5>
+									All the equipment you will need for the day to day running of your industry we will acquire
+									that for you. All you have to do is inform us what the Industry is into and we will list the
+									right equipments for the Industry or if you want you can list what you want and we will acquire it. 
+									<h5 style="margin-top:20px; margin-bottom: 1px;">OTHERS</h5>
+									All other forms of Equipments/materials which you will need for your work get it here.
+								</p>
+							</div>
+						</div>
+						<div class="col-md-3 animate-box" data-animate-effect="fadeInLeft">
+							<ul style="padding-top: 70px; text-color: #780ad1; font-weight:bold;">
+								<li><a href="#">Procurement</a></li>
+							</ul>
+						</div>
+							
+					</div>
+
+					
+
 				</div>
 			</div>
+
+
+			
+
+
 			<!-- ................. GET IN TOUCH ................. -->
 
 			<div id="get-in-touch" class="colorlib-bg-color">
