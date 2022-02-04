@@ -1,9 +1,7 @@
 @extends('layouts.main')
 
     @section('content')
-
-    <div id="colorlib-page">
-		<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle"><i></i></a>
+		
 		
 		<div id="colorlib-main">
 			<aside id="colorlib-hero" class="js-fullheight">
@@ -278,6 +276,5 @@
 				</div>
 			</div>
 		</div>
-	</div>
 
     @endsection
