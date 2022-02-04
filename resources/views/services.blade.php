@@ -180,22 +180,12 @@
 										including an ultrasonic magnetic tank crawler and drones/UAVs 
 										to conduct the following inspections, any time, any where in the continental United States and beyond:
 									</p>
-									<ul>
-										<li>Tanks – Steel Tank Institute (STI) SP001</li>
-										<li>Tanks – Nigerian Petroleum Institute (NPI)-653</li>
-										<li>Tanks – National Fire Protection Association (NFPA) and Nigerian Water Works Association</li>
-										<li>Pressure Vessels – Nigerian Petroleum Institute (NPI)-510</li>
-										<li>Piping – Nigerian Petroleum Institute (NPI)-570</li>
-										<li>OSHA-Mechanical Integrity Inspections For Process Safety Management (PSM)</li>
-									</ul>
 							</div>
 							
 						</div>
 						<div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
 							<ul style="padding-top: 70px; text-color: #780ad1; font-weight:bold;">
 								<li><a href="#">STI SP001 Tank Inspections</a></li>
-								<li><a href="#">NPI-653 Tank Inspections</a></li>
-								<li><a href="#">NFPA and NWWA Tank Inspections</a></li>
 							</ul>
 						</div>
 							
