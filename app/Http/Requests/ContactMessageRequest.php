@@ -23,10 +23,11 @@ class ContactMessageRequest extends FormRequest
      */
     public function rules()
     {
-        return [
+        $rules = [
             'name' => 'required|string|min:3',
             'message' => 'required|string|min:5',
-            'email' => 'email'
         ];
+        if($this->request->has('email') && !empty($this->request->get('email'))) $rules['email'] = 'email';
+        return $rules;
     }
 }

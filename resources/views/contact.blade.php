@@ -44,7 +44,10 @@
 						<div class="col-md-7 col-md-push-1">
 							<div class="row">
 								<div class="col-md-10 col-md-offset-1 col-md-pull-1 animate-box" data-animate-effect="fadeInLeft">
-                                    {{ Form::open(array('url' => 'foo/bar' , 'method' => 'post')) }}
+									@include('inc.formErrors')
+									
+									@if(Session::get('success')) <p class="alert alert-success">{{session('success')}}</p> @endif
+                                    {{ Form::open(array('url' => 'contact' , 'method' => 'post')) }}
                                         <div class="form-group">
                                             <input type="text" name="name" class="form-control" placeholder="Name" required>
                                         </div>
