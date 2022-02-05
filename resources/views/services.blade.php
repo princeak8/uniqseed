@@ -17,7 +17,7 @@
 								<div class="col-md-12">
 									<div class="colorlib-feature animate-box" data-animate-effect="fadeInLeft">
 										<div class="colorlib-icon">
-											<i class="flaticon-worker"></i>
+											<i class="flaticon-conveyor"></i>
 										</div>
 										<div class="colorlib-text">
 												<a href="#section1">
@@ -25,7 +25,6 @@
 													<p>The nation’s largest and most respected companies choose UIL for our 
 														skilled field services crews and equipment fleet, both of which are ready and able to respond to any situation,
 														anywhere. Our field service workers and engineers are trained up, educated, and certified to handle any need your company may have.
-														
 													</p>
 												</a>
 											
@@ -34,7 +33,7 @@
 
 									<div class="colorlib-feature animate-box" data-animate-effect="fadeInLeft">
 										<div class="colorlib-icon">
-											<i class="flaticon-sketch"></i>
+											<i class="flaticon-engineer"></i>
 										</div>
 										<div class="colorlib-text">
 											<a href="#section2">
@@ -62,6 +61,20 @@
 											</a>											
 										</div>
 									</div>
+
+									<div class="colorlib-feature animate-box" data-animate-effect="fadeInLeft">
+										<div class="colorlib-icon">
+											<i class="flaticon-architect-with-helmet"></i>
+										</div>
+										<div class="colorlib-text">
+											<a href="#section7">
+												<h3>Procurement</h3>
+												<p>Uniqseed will handle your projects from start to finish, starting from planning, design, costly, proceurement,construction
+													and hand over. All the necessary equipments and materials required for a particular job will be acquired by us.
+												</p>
+											</a>
+										</div>
+									</div>
 								</div>
 							</div>
 						</div>
@@ -70,7 +83,7 @@
 								<div class="col-md-12">
 									<div class="colorlib-feature animate-box" data-animate-effect="fadeInLeft">
 										<div class="colorlib-icon">
-											<i class="flaticon-engineering"></i>
+											<i class="flaticon-skyline"></i>
 										</div>
 										<div class="colorlib-text">
 											<a href="#section4">
@@ -87,7 +100,7 @@
 
 									<div class="colorlib-feature animate-box" data-animate-effect="fadeInLeft">
 										<div class="colorlib-icon">
-											<i class="flaticon-crane"></i>
+											<i class="flaticon-sketch"></i>
 										</div>
 										<div class="colorlib-text">
 											<a href="#section5">
@@ -98,6 +111,23 @@
 											</a>
 										</div>
 									</div>
+									<div class="colorlib-feature animate-box" data-animate-effect="fadeInLeft">
+										<div class="colorlib-icon">
+											<i class="flaticon-crane"></i>
+										</div>
+										<div class="colorlib-text">
+											<a href="#section6">
+												<h3>Manufacturing</h3>
+												<p>We are committed towards the manufacturing of different agricultural products.<br/>
+													Agro products are the life force, the very source of survival for the human kind. 
+													Uniqseed Industries concentrates in the manufacturing of grains, Oil Seeds, and other unique agricultural products
+												</p>
+											</a>
+										</div>
+									</div>
+									
+
+
 								</div>
 							</div>
 						</div>
@@ -113,7 +143,7 @@
 						</div>
 						<div class="col-md-4">
 							<a href="#section2" class="services-wrap animate-box" data-animate-effect="fadeInRight">
-								<div class="services-img" style="background-image: url(images/img_tnk.png)"></div>
+								<div class="services-img" style="background-image: url(images/serv4.jpg)"></div>
 								<div class="desc">
 									<h3>Tank, Vessel and Piping Inspections</h3>
 								</div>
@@ -121,7 +151,7 @@
 						</div>
 						<div class="col-md-4">
 							<a href="#section3" class="services-wrap animate-box" data-animate-effect="fadeInRight">
-								<div class="services-img" style="background-image: url(images/serv2.jpg)"></div>
+								<div class="services-img" style="background-image: url(images/serv3.jpg)"></div>
 								<div class="desc">
 									<h3>Works</h3>
 								</div>
@@ -145,6 +175,25 @@
 								</div>
 							</a>
 						</div>
+						<div class="col-md-4">
+							<a href="#section6" class="services-wrap animate-box" data-animate-effect="fadeInRight">
+								<div class="services-img" style="background-image: url(images/serv2.jpg)"></div>
+								<div class="desc">
+									<h3>Manufacturing</h3>
+								</div>
+							</a>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-4">
+							<a href="#section7" class="services-wrap animate-box" data-animate-effect="fadeInRight">
+								<div class="services-img" style="background-image: url(images/serv5.jpg)"></div>
+								<div class="desc">
+									<h3>Procurement</h3>
+								</div>
+							</a>
+						</div>
+						
 					</div>
 					<div id="section1" class="row" style="background-color: #e8d7f5; margin-bottom: 10px;">
 
@@ -180,6 +229,24 @@
 										including an ultrasonic magnetic tank crawler and drones/UAVs 
 										to conduct the following inspections, any time, any where in the continental United States and beyond:
 									</p>
+									<h5 style="margin-bottom: 0px;">Tank Inspection:</h5>
+									<ul style="margin-bottom: 20px; margin-top:0px;">
+										<li>Inspection, repair, alteration, and reconstruction of aboveground 
+											storage tanks according to API 653 standard</li>
+									</ul>
+									<h5 style="margin-bottom: 0px;">Pressure Vessel Inspection Inspection:</h5>
+									<ul style="margin-bottom: 20px; margin-top:0px;">
+										<li>Fitness-For-Service (FFS) assessments, according to API 579 Code</li>
+										<li>In-Service Inspection, Rating, Repair, and Alteration of pressure
+									 		vessels according to API 510, Pressure Vessel Inspection Code
+										</li>
+									</ul>
+									<h5 style="margin-bottom: 0px;">Piping Inspection:</h5>
+									<ul style="margin-bottom: 20px; margin-top:0px;">
+										<li>In-service inspection, repair, alteration, and rerating activities for piping systems
+									 		and their associated pressure relieving devices according to API 570 inspection code
+										</li>
+									</ul>
 							</div>
 							
 						</div>

@@ -19,7 +19,7 @@
 
 			<div class="colorlib-footer">
 				<p style="color: #780ad1; font-weight: bold;"><small>&copy; <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> Made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Uniqseed Industries Limited</a> powered by: <a href="#" target="_blank">Zizix</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script><br><a href="https://colorlib.com" target="_blank">Uniqseed Industries Limited</a><br> powered by: <a href="#" target="_blank">Zizix</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --> </span> </small></p>
 				<ul>
 					<li><a href="#"><i class="icon-facebook2"></i></a></li>

@@ -86,35 +86,29 @@
 							<div class="about-desc">
 								<span class="heading-meta">Welcome</span>
 								<h2 class="colorlib-heading">Who we are</h2>
-								<p>Uniqseed Industries Limited (UIL) is a full-service environmental consulting and contracting 
-									firm with a strong reputation for providing expert, turnkey solutions for both public and private sector clients.
-									Our roots are in environmental compliance, remediation and due diligence but we offer so much more.
-								</p>
-								<h2 class="colorlib-heading">Our Vision:</h2>
-								<p>To be a team of enjoyable, productive people who believe that taking 
-									responsibility for our own happiness is the recipe for success.
-								</p>
-								<h2 class="colorlib-heading">Our Purpose:</h2>
-								<p>When our Clients have a need we dive in, diagnose, and apply the right 
-									combination of science, safety, grit and ingenuity.
+								<p>Uniqseed Industries Limited (UIL) is among company in engineering, procurement, drilling and construction of major 
+                                    projects in the energy and infrastructure sectors. The company is organized in three business divisions, 
+                                    Offshore E&C, Onshore E&C (dedicated to conceptual design) and supply chain in procurement. 
+                                    Uniqseed is an excellent solution provider with distinctive skills and competences by applying high-techology 
+                                    assets to identified solutions aimed at satisfying customer requirements.
 								</p>
 							</div>
 							<div class="row padding">
 								<div class="col-md-4 no-gutters animate-box" data-animate-effect="fadeInLeft">
 									<a href="#" class="steps active">
-										<p class="icon"><span><i class="icon-check"></i></span></p>
+										<p class="icon"><span><i class="icon-check" Style="color: #0cf834 !important;"></i></span></p>
 										<h3>We are <br>pasionate</h3>
 									</a>
 								</div>
 								<div class="col-md-4 no-gutters animate-box" data-animate-effect="fadeInLeft">
 									<a href="#" class="steps">
-										<p class="icon"><span><i class="icon-check"></i></span></p>
+										<p class="icon"><span><i class="icon-check" Style="color: #0cf834 !important;"></i></span></p>
 										<h3>Honest <br>Dependable</h3>
 									</a>
 								</div>
 								<div class="col-md-4 no-gutters animate-box" data-animate-effect="fadeInLeft">
 									<a href="#" class="steps">
-										<p class="icon"><span><i class="icon-check"></i></span></p>
+										<p class="icon"><span><i class="icon-check" Style="color: #0cf834 !important;"></i></span></p>
 										<h3>Always <br>Improving</h3>
 									</a>
 								</div>
@@ -137,9 +131,9 @@
 							<div class="row">
 								<div class="col-md-12">
 									<div class="colorlib-feature animate-box" data-animate-effect="fadeInLeft">
-										<a href="{{ route('services') }}">
+										
 											<div class="colorlib-icon">
-												<i class="flaticon-worker"></i>
+												<i class="flaticon-conveyor"></i>
 											</div>
 											<div class="colorlib-text">
 												<h3>Engineering</h3>
@@ -147,14 +141,17 @@
 													skilled field services crews and equipment fleet, both of which are ready and able to respond to any situation,
 													anywhere. Our field service workers and engineers are trained up, educated, and certified to handle any need your company may have.	
 												</p>
+												<p style=" margin-top: -20px !important;"><a href="{{ route('services') }}" class="btn btn-primary btn-learn" 
+													style="background-color: #78608B; border-radius: 10px; border: solid 3px #baaabb;">Learn more</a>
+												</p>
 											</div>
-										</a>
+										
 									</div>
 
 									<div class="colorlib-feature animate-box" data-animate-effect="fadeInLeft">
-										<a href="{{ route('services') }}">
+										
 											<div class="colorlib-icon">
-												<i class="flaticon-sketch"></i>
+												<i class="flaticon-engineer"></i>
 											</div>
 											<div class="colorlib-text">
 												<h3>Tank, Vessel and Piping Inspections</h3>
@@ -162,12 +159,15 @@
 													inspections. With UIL, there are no delays or scheduling of multiple inspections. Our inspectors are fully-equipped with 
 													the technology - including an ultrasonic magnetic tank crawler and drones/UAVs
 												</p>
+												<p style=" margin-top: -20px !important;"><a href="{{ route('services') }}" class="btn btn-primary btn-learn" 
+													style="background-color: #78608B; border-radius: 10px; border: solid 3px #baaabb;">See Details</a>
+												</p>
 											</div>
-										</a>
+									
 									</div>
 
 									<div class="colorlib-feature animate-box" data-animate-effect="fadeInLeft">
-										<a href="{{ route('services') }}">
+										
 											<div class="colorlib-icon">
 												<i class="flaticon-worker"></i>
 											</div>
@@ -178,14 +178,16 @@
 													reliable, and ready to work. We understand the intricacies of the manufacturing industry, 
 													ensuring unparalleled results, constant communication, and strong attention to detail and safety.
 												</p>
+												<p style=" margin-top: -20px !important;"><a href="{{ route('services') }}" class="btn btn-primary btn-learn" 
+													style="background-color: #78608B; border-radius: 10px; border: solid 3px #baaabb;">View Details</a>
+												</p>
 											</div>
-										</a>
+										
 									</div>
 
 									<div class="colorlib-feature animate-box" data-animate-effect="fadeInLeft">
-										<a href="{{ route('services') }}">
 											<div class="colorlib-icon">
-												<i class="flaticon-engineering"></i>
+												<i class="flaticon-skyline "></i>
 											</div>
 											<div class="colorlib-text">
 												<h3>Commisioning and Decommisioning</h3>
@@ -195,22 +197,61 @@
 													Decommissioning experts have experience of large-scale decommissioning, unique tools and a global network of
 													expertise at their fingertips, we can be trusted to safely and cost-effectively remove your redundant facilities. 
 												</p>
+												<p style=" margin-top: -20px !important;"><a href="{{ route('services') }}" class="btn btn-primary btn-learn" 
+													style="background-color: #78608B; border-radius: 10px; border: solid 3px #baaabb;">More</a>
+												</p>
 											</div>
-										</a>
+										
 									</div>
 
 									<div class="colorlib-feature animate-box" data-animate-effect="fadeInLeft">
-										<a href="{{ route('services') }}">
 											<div class="colorlib-icon">
-												<i class="flaticon-crane"></i>
+												<i class="flaticon-sketch"></i>
 											</div>
 											<div class="colorlib-text">
 												<h3>Online Task Manager Software</h3>
 												<p>Our compliance reporting is best handled proactively. Online Task Manager (OTM) will 
 													help you stay on top of your documentation and organize all of it in one place. 
 												</p>
+												<p style=" margin-top: -20px !important;"><a href="{{ route('services') }}" class="btn btn-primary btn-learn" 
+													style="background-color: #78608B; border-radius: 10px; border: solid 3px #baaabb;">Learn more</a>
+												</p>
 											</div>
-										</a>
+									</div>
+
+									<div class="colorlib-feature animate-box" data-animate-effect="fadeInLeft">
+										
+											<div class="colorlib-icon">
+												<i class="flaticon-crane"></i>
+											</div>
+											<div class="colorlib-text">
+												<h3>Manufacturing</h3>
+												<p>We are committed towards the manufacturing of different agricultural products.<br/>
+													Agro products are the life force, the very source of survival for the human kind. 
+													Uniqseed Industries concentrates in the manufacturing of grains, Oil Seeds, and other unique agricultural products
+												</p>
+												<p style=" margin-top: -20px !important;"><a href="{{ route('services') }}" class="btn btn-primary btn-learn" 
+													style="background-color: #78608B; border-radius: 10px; border: solid 3px #baaabb;">See Details</a>
+												</p>
+											</div>
+										
+									</div>
+
+									<div class="colorlib-feature animate-box" data-animate-effect="fadeInLeft">
+						
+											<div class="colorlib-icon">
+												<i class="flaticon-architect-with-helmet"></i>
+											</div>
+											<div class="colorlib-text">
+												<h3>Procurement</h3>
+												<p>Uniqseed will handle your projects from start to finish, starting from planning, design, costly, proceurement,construction
+													and hand over. All the necessary equipments and materials required for a particular job will be acquired by us.
+												</p>
+												<p style=" margin-top: -20px !important;"><a href="{{ route('services') }}" class="btn btn-primary btn-learn" 
+													style="background-color: #78608B; border-radius: 10px; border: solid 3px #baaabb;">View Details</a>
+												</p>
+											</div>
+										
 									</div>
 								</div>
 							</div>
@@ -225,15 +266,21 @@
 										</div>
 									</a>
 									<a href="{{ route('services') }}" class="services-wrap animate-box" data-animate-effect="fadeInRight">
-										<div class="services-img" style="background-image: url(images/img_tnk.png)"></div>
+										<div class="services-img" style="background-image: url(images/serv4.jpg)"></div>
 										<div class="desc">
 											<h3>Tank, Vessel and Piping Inspections</h3>
 										</div>
 									</a>
 									<a href="{{ route('services') }}" class="services-wrap animate-box" data-animate-effect="fadeInRight">
-										<div class="services-img" style="background-image: url(images/serv2.jpg)"></div>
+										<div class="services-img" style="background-image: url(images/serv3.jpg)"></div>
 										<div class="desc">
 											<h3>Works</h3>
+										</div>
+									</a>
+									<a href="{{ route('services') }}" class="services-wrap animate-box" data-animate-effect="fadeInRight">
+										<div class="services-img" style="background-image: url(images/serv5.jpg)"></div>
+										<div class="desc">
+											<h3>Procurement</h3>
 										</div>
 									</a>
 								</div>
@@ -250,6 +297,13 @@
 											<h3>Online Task Manager Software</h3>
 										</div>
 									</a>
+									<a href="{{ route('services') }}" class="services-wrap animate-box" data-animate-effect="fadeInRight">
+										<div class="services-img" style="background-image: url(images/serv2.jpg)"></div>
+										<div class="desc">
+											<h3>Manufacturing</h3>
+										</div>
+									</a>
+									
 								</div>
 							</div>
 						</div>
