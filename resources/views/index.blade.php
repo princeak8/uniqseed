@@ -160,7 +160,7 @@
 													the technology - including an ultrasonic magnetic tank crawler and drones/UAVs
 												</p>
 												<p style=" margin-top: -20px !important;"><a href="{{ route('services') }}" class="btn btn-primary btn-learn" 
-													style="background-color: #78608B; border-radius: 10px; border: solid 3px #baaabb;">See Details</a>
+													style="background-color: #78608B; border-radius: 10px; border: solid 3px #baaabb;">Learn more</a>
 												</p>
 											</div>
 									
@@ -179,7 +179,7 @@
 													ensuring unparalleled results, constant communication, and strong attention to detail and safety.
 												</p>
 												<p style=" margin-top: -20px !important;"><a href="{{ route('services') }}" class="btn btn-primary btn-learn" 
-													style="background-color: #78608B; border-radius: 10px; border: solid 3px #baaabb;">View Details</a>
+													style="background-color: #78608B; border-radius: 10px; border: solid 3px #baaabb;">Learn more</a>
 												</p>
 											</div>
 										
@@ -198,7 +198,7 @@
 													expertise at their fingertips, we can be trusted to safely and cost-effectively remove your redundant facilities. 
 												</p>
 												<p style=" margin-top: -20px !important;"><a href="{{ route('services') }}" class="btn btn-primary btn-learn" 
-													style="background-color: #78608B; border-radius: 10px; border: solid 3px #baaabb;">More</a>
+													style="background-color: #78608B; border-radius: 10px; border: solid 3px #baaabb;">Learn more</a>
 												</p>
 											</div>
 										
@@ -231,7 +231,7 @@
 													Uniqseed Industries concentrates in the manufacturing of grains, Oil Seeds, and other unique agricultural products
 												</p>
 												<p style=" margin-top: -20px !important;"><a href="{{ route('services') }}" class="btn btn-primary btn-learn" 
-													style="background-color: #78608B; border-radius: 10px; border: solid 3px #baaabb;">See Details</a>
+													style="background-color: #78608B; border-radius: 10px; border: solid 3px #baaabb;">Learn more</a>
 												</p>
 											</div>
 										
@@ -248,7 +248,7 @@
 													and hand over. All the necessary equipments and materials required for a particular job will be acquired by us.
 												</p>
 												<p style=" margin-top: -20px !important;"><a href="{{ route('services') }}" class="btn btn-primary btn-learn" 
-													style="background-color: #78608B; border-radius: 10px; border: solid 3px #baaabb;">View Details</a>
+													style="background-color: #78608B; border-radius: 10px; border: solid 3px #baaabb;">Learn more</a>
 												</p>
 											</div>
 										
