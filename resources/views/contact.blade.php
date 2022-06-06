@@ -58,6 +58,23 @@
                                         <div class="form-group">
                                             <textarea name="message" id="message" cols="30" rows="7" class="form-control" placeholder="Message" required></textarea>
                                         </div>
+
+										<div class="row">
+											<div class="col-md-4"></div>
+											<div class="form-group col-md-6">
+												<div class="captcha">
+													<span>{!! captcha_img() !!}</span>
+													<button type="button" class="btn btn-success"><i class="fa fa-refresh" id="refresh"></i></button>
+												</div>
+											</div>
+										</div>
+										<div class="row">
+											<div class="col-md-4"></div>
+											<div class="form-group col-md-4">
+												<input id="captcha" type="text" class="form-control" placeholder="Enter Captcha" name="captcha" required></div>
+											</div>
+										</div>
+
                                         <div class="form-group">
                                             <input type="submit" class="btn btn-primary btn-send-message" style="background-color: #78608B; 
                                             border-radius: 10px; border: solid 3px #baaabb;" value="Send Message">
@@ -91,4 +108,20 @@
 		</div>
 	
 
-    @endsection
+	@endsection
+	
+@section('js')
+<script type="text/javascript">
+	$('#refresh').click(function(){
+		console.log('clicked');
+	$.ajax({
+		type:'GET',
+		url:'refreshcaptcha',
+		success:function(data){
+			console.log('data:', data);
+			$(".captcha span").html(data.captcha);
+		}
+	});
+	});
+</script>
+@endsection

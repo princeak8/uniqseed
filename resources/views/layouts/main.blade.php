@@ -9,4 +9,8 @@
         </div>
 
         @include('inc.footer')
+
+        @yield('js')
+        </body>
+</html>    
     

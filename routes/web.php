@@ -34,3 +34,5 @@ Route::get('/contact', function () {
 })->name('contact');
 
 Route::post('/contact', 'ContactController@save');
+
+Route::get('refreshcaptcha', 'ContactController@refreshCaptcha');

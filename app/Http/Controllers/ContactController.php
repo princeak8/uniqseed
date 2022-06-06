@@ -38,4 +38,9 @@ class ContactController extends Controller
         //             ->subject('Your Website Contact Form');
         // });
     }
+
+    public function refreshCaptcha()
+    {
+        return response()->json(['captcha'=> captcha_img()]);
+    }
 }

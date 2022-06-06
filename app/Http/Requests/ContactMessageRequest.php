@@ -26,6 +26,7 @@ class ContactMessageRequest extends FormRequest
         $rules = [
             'name' => 'required|string|min:3',
             'message' => 'required|string|min:5',
+            'captcha' => 'required|captcha'
         ];
         if($this->request->has('email') && !empty($this->request->get('email'))) $rules['email'] = 'email';
         return $rules;
