@@ -143,7 +143,7 @@ return [
     'custom' => [
         'captcha' => [
             'required' => 'Captcha is required',
-            'captcha' => 'Wrong Captcha Val',
+            'captcha' => 'Wrong Captcha Value',
         ],
     ],
 
